@@ -25,6 +25,14 @@ I'm a full-stack developer passionate about building elegant web applications. C
 ### Backend & Tools
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+
+### AI & Cloud
+[![Anthropic](https://img.shields.io/badge/Anthropic-D4915D?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/)
+[![Google Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google&logoColor=white)](https://gemini.google.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Railway](https://img.shields.io/badge/Railway-0B0D17?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
+
+### Dev Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
